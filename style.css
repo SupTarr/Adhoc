@@ -1,4 +1,4 @@
-section.jumbotron.jumbotron-fluid {
+section.container-fluid {
   background: url(https://content.codecademy.com/courses/learn-bootstrap-4/adhoc/jumbotron.png)
     no-repeat;
   background-size: cover;
