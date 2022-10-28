@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project was completed as part of `Learn Bootstrap`. I am tasked to make full use of our Bootstrap knowledge and its accompanying documentation to create a website for Adhoc, an office administration website. You can download the Adhoc’s design spec [here](https://content.codecademy.com/courses/freelance-1/capstone-1/specs/fotomatic_spec_landing_v2.png).
+This project was completed as part of `Learn Bootstrap`. I am tasked to make full use of our Bootstrap knowledge and its accompanying documentation to create a website for Adhoc, an office administration website. You can download the Adhoc’s design spec [here](https://content.codecademy.com/courses/learn-bootstrap-4/adhoc/adhoc%20design%20spec.png).
 
 ## Technologies
 
